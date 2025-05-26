@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Ozan Murat
 
-I'm a passionate **.NET Backend Developer** with experience in building scalable web applications and CRM systems. I enjoy designing clean architectures and working with a variety of technologies from backend to frontend.
+👨‍💻 Backend Developer with a strong focus on .NET technologies, passionate about building clean, scalable, and maintainable applications.
+
+🧠 Experienced in designing microservice architectures, developing RESTful APIs, and working with technologies like Redis, RabbitMQ, Docker, MongoDB, and SQL-based databases.
+
+🌐 I have hands-on experience with modern frontend tools such as React.js and a growing interest in full-stack development.
+
+🚀 Always eager to explore new technologies and improve my craft through clean code principles, SOLID, and design patterns. I enjoy contributing to collaborative teams and learning through real-world challenges.
 
 ---
 
